@@ -239,7 +239,7 @@ nav{
     text-align: right;
     position: relative;
     left: -1em;
-    width: calc(100% + 5em );
+    width: calc(100% + 10em );
 }
 /* .services{
     margin-bottom: 4em;
