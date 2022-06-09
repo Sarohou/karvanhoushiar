@@ -234,7 +234,7 @@ nav{
 }
 .p__subtitle__intro{
     align-self: start;
-    grid-column: -1/1;
+    grid-column: -2/2;
     grid-row: 2;
     text-align: right;
     position: relative;
