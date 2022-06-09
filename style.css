@@ -238,7 +238,7 @@ nav{
     grid-row: 2;
     text-align: right;
     position: relative;
-    left: -1em;
+    left: -1.5em;
     width: calc(100% + 10em );
 }
 /* .services{
