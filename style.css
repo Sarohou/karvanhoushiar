@@ -319,13 +319,15 @@ nav{
         
         color: var(--clr-light);
         text-align: justify;
-        text-justify: initial;
+        text-justify: auto;
         /* letter-spacing:1px; */
 
     }
     .about-me__img{
         grid-area: img;
         max-width: 400px;
+        shape-margin: 2rem;
+        shape-outside : circle(50%);
         float: right;
         position: relative;
         z-index: 2;
