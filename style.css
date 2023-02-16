@@ -327,7 +327,7 @@ nav{
         grid-area: img;
         max-width: 400px;
         shape-margin: 2rem;
-        shape-outside : circle(50%);
+        shape-outside : url(images/k.jpg);
         float: right;
         position: relative;
         z-index: 2;
