@@ -175,7 +175,6 @@ h3{font-size: var(--fs-h3);}
 .about-me__body{      
     color: var(--clr-light);
     text-align: justify;
-    text-justify: auto;
 
 }
 .about-me__img{
