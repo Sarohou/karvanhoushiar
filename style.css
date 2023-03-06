@@ -161,6 +161,7 @@ h3{font-size: var(--fs-h3);}
     position: relative;
     left: -1.5em;
     width: calc(100% + 10em );
+    padding-right: 20% !important;
 }
 .h2__section__services::after{
     content: '';
